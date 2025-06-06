@@ -3,7 +3,7 @@
 
 *(A notification shows when the current volume exceeds the preset value.)*
 
-**Source:** This script is posted from the [Raddit Post](https://www.reddit.com/r/MacOS/comments/btki3j/limit_the_maximum_volume_in_mac_os_to_protect) and now slightly modified by me.
+**Source:** This script is posted from the [Reddit Post](https://www.reddit.com/r/MacOS/comments/btki3j/limit_the_maximum_volume_in_mac_os_to_protect) and now slightly modified by me.
 
 # Usage
 ## Run Manually
